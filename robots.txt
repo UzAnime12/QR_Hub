@@ -1,0 +1,15 @@
+# Barcha robotlarga ruxsat (asosiy)
+User-agent: *
+Allow: /
+
+# AI botlarni bloklash
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+Sitemap: https://sizning-saytingiz.uz/sitemap.xml
